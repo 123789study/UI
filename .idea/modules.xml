@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Intent/Intent/Intent.iml" filepath="$PROJECT_DIR$/../Intent/Intent/Intent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JDBC/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/../JDBC/JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../数据结构作业/Search/Search.iml" filepath="$PROJECT_DIR$/../数据结构作业/Search/Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UI.iml" filepath="$PROJECT_DIR$/UI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mythread/mythread/mythread.iml" filepath="$PROJECT_DIR$/../mythread/mythread/mythread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Web/web/web.iml" filepath="$PROJECT_DIR$/../Web/web/web.iml" />
+    </modules>
+  </component>
+</project>
